@@ -1,0 +1,36 @@
+{
+    "profile": {
+      "name": "Hanna Mikho",
+      "title": "Fullstack .NET Student",
+      "about": "I am an analytical and problem-solving soon-to-be developer who is highly quick to learn and passionate about my work.",
+      "contact": {
+        "email": "hanna.mikho@chasacademy.com",
+        "linkedin": "https://www.linkedin.com/in/hanna-mikho-2aa918326/",
+        "github": "https://github.com/hmikho"
+      }
+    },
+    "workExperience": [
+      {
+        "position": "Store Associate, E-commerce",
+        "company": "Stora COOP, Häggvik",
+        "description": "Picked orders for customers who ordered groceries via Coop's website and ensured the store was well-maintained and stocked."
+      },
+      {
+        "position": "Logistics Associate",
+        "company": "BAUHAUS, Bromma",
+        "description": "Picked orders for customers, assisted in various departments, and ensured the store's shelves were stocked."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Fullstack .NET Student",
+        "school": "Chas Academy",
+        "year": "2024 - 2026"
+      },
+      {
+        "degree": "Media Technology 1",
+        "school": "Södertörn",
+        "year": "2023"
+      }
+    ]
+  }
